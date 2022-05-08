@@ -1,4 +1,4 @@
---truncate TABLE proy_movilizacion;
+--ejercicio 1 guia 1_2_3
 
 var b_rut number;
 exec :b_rut := &rut;
