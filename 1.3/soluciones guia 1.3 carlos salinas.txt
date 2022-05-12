@@ -1,5 +1,5 @@
 
--- EJERCICIO 1
+-- EJERCICIO 1 ------------------------------------------------------------
 -- Declaración de variables bind
 
 VAR B_RUT NUMBER;
@@ -68,7 +68,7 @@ cc.fecha_otorga_cred;
 END;
 /
 
--- ejercicio 2
+-- EJERCICIO 2  ------------------------------------------------------------------------------------------------------------
 
 -- DECLARACION BIND (VARIABLES PARAMÉTRICAS)
 VAR B_RUT NUMBER;
@@ -147,7 +147,7 @@ INSERT INTO cumpleanno_cliente VALUES (V_NRO_CLIENTE, V_RUN_CLIENTE, V_NOMBRE_CL
 END;
 /
 
--- ejercicio 3
+-- EJERCICIO 3 ------------------------------------------------------------------------------------------------------------
 /* practica3_caso3  */
 
 declare
